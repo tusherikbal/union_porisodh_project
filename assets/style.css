@@ -1,0 +1,21 @@
+.thismargin{
+    margin-top: 80px;
+  
+}
+
+* {
+    margin: 0 auto;
+    padding: 0;
+  }
+
+
+
+
+
+  @media only screen and (max-width: 600px) {
+    
+.txc-btm{
+padding-top: 10px;
+}
+
+  }
